@@ -36,12 +36,6 @@ I'm a **BCA (AI + ML) student** driven by curiosity and the desire to understand
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rehan-ansarii&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-ansarii&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🎯 Featured Projects
