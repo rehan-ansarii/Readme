@@ -49,7 +49,7 @@ I'm a **BCA (AI + ML) student** driven by curiosity and the desire to understand
 ### 🏦 Mini Bank System (Python)
 A foundational project demonstrating core programming concepts through a banking application. Features include account management, transactions, and data handling.
 - **Skills Applied**: Python fundamentals, object-oriented programming, data structures
-- [View Repository](link-to-repo) *(Coming soon or add link)*
+- [View Repository](https://github.com/rehan-ansarii?tab=repositories)
 
 ---
 
@@ -109,8 +109,5 @@ I'm always interested in connecting with fellow students, developers, and AI/ML 
 
 **Thank you for visiting! Explore my repositories, and let's connect if you're interested in AI, ML, or Python development!**
 
-![Visitors](https://komarev.com/ghpvc/?username=rehan-ansarii&color=blue)
-
-⭐ If you like my projects, consider giving them a star! ⭐
 
 </div>
