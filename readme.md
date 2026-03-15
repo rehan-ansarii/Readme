@@ -72,7 +72,7 @@ I'm always interested in connecting with fellow students, developers, and AI/ML 
 
 - 💼 [LinkedIn](www.linkedin.com/in/rehan-ansari-95a168380)
 - 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](rehanansarii359@gmail.com)
 - 🌐 [Portfolio](your-portfolio-url)
 
 ---
