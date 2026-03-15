@@ -70,9 +70,9 @@ Right now, I'm concentrating on:
 
 I'm always interested in connecting with fellow students, developers, and AI/ML enthusiasts!
 
-- 💼 [LinkedIn](www.linkedin.com/in/rehan-ansari-95a168380)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rehan-ansari-95a168380)
 - 🐦 [Twitter](your-twitter-url)
-- 📧 [Email](rehanansarii359@gmail.com)
+- 📧 [Email](mail to:rehanansarii359@gmail.com)
 - 🌐 [Portfolio](your-portfolio-url)
 
 ---
